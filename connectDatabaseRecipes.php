@@ -2,7 +2,7 @@
 
 try
 {
-	$db = new PDO('mysql:host=sql202.epizy.com;dbname=epiz_33409722_recipes;charset=utf8', 'epiz_33409722', 'OwRRMNfqWzKH');
+	$db = new PDO('mysql:host=sql202.epizy.com;dbname=epiz_33409722_recipes;charset=utf8', '******', '*****');
 }
 catch (Exception $e)
 {
